@@ -1,6 +1,3 @@
-//  Chapter 6-10 Lab
-//  Created by Donovan Bettis on 11/22/20.
-
 #include <iostream>
 
 using namespace std;
